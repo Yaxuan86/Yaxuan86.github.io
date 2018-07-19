@@ -118,11 +118,11 @@
       
         <tags>
             
+            <tag> Hibernate </tag>
+            
             <tag> idea </tag>
             
             <tag> Oracle </tag>
-            
-            <tag> Hibernate </tag>
             
             <tag> 多对多 </tag>
             
@@ -219,9 +219,9 @@
             
             <tag> idea </tag>
             
-            <tag> OGNL </tag>
-            
             <tag> Struts2 </tag>
+            
+            <tag> OGNL </tag>
             
             <tag> Action </tag>
             
@@ -308,15 +308,15 @@
       
         <tags>
             
+            <tag> Java </tag>
+            
             <tag> idea </tag>
             
-            <tag> Java </tag>
+            <tag> Struts2 </tag>
             
             <tag> OGNL </tag>
             
             <tag> 自定义转换器 </tag>
-            
-            <tag> Struts2 </tag>
             
         </tags>
       
@@ -341,9 +341,9 @@
             
             <tag> idea </tag>
             
-            <tag> servlet </tag>
-            
             <tag> Struts2 </tag>
+            
+            <tag> servlet </tag>
             
         </tags>
       
